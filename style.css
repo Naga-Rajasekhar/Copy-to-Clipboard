@@ -1,0 +1,31 @@
+body {
+  outline: 0;
+  margin: 0;
+  background-color: rgb(196, 185, 88);
+}
+
+wrapper {
+  display: grid;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+#heading {
+  font-size: 40px;
+}
+
+textarea {
+  border-radius: 6px;
+}
+
+button {
+  width: 200px;
+  justify-self: center;
+  margin-top: 5px;
+  font-size: 20px;
+  height: 40px;
+  border-radius: 4px;
+  background-color: rgb(165, 119, 165);
+  color: white;
+  cursor: pointer;
+}
